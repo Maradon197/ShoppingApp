@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Shopping App</string>
     <string name="apple_title">Apple</string>
-    <string name="apple_desc">Apple duh</string>
+    <string name="apple_desc">Apple duh. Lets make this  Description longer \n so that the detailed view is actually of \n some importance.</string>
     <string name="banana_title">Banana</string>
     <string name="banana_desc">Banana duh</string>
     <string name="dragonfruit_title">Dragonfruit</string>
