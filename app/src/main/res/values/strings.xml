@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="apple_desc">Apple duh</string>
+    <string name="apple_title">Apple</string>
+    <string name="banana_desc">Banana duh</string>
+    <string name="banana_title">Banana</string>
+    <string name="dragonfruit">Dragonfruit</string>
+    <string name="dragonfruit_desc">Dragonfruit duh</string>
+
+</resources>
